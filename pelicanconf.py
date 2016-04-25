@@ -40,3 +40,6 @@ PAGE_EXCLUDES = ['demo']
 ARTICLE_EXCLUDES = ['demo']
 
 THEME = "themes/notmyidea"
+
+PIWIK_URL = "piwik.oakbits.com"
+PIWIK_SITE_ID = 2
